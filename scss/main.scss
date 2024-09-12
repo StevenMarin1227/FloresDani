@@ -1391,3 +1391,14 @@ body {
 .container * {
   animation-play-state: paused !important;
 }
+
+/* Footer */
+footer {
+    background-color: #1a1a1a;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
